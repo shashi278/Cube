@@ -70,7 +70,7 @@ body{
     width: 52px;
     height: 52px;
     transform-style: preserve-3d;
-    animation: otate 9s linear infinite;
+    animation: rotate 9s linear infinite;
 }
 .sides{
     position: absolute;
