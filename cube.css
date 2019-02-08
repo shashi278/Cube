@@ -20,7 +20,7 @@ body{
     width: 150px;
     perspective: 7000px;
     transform-style: preserve-3d;
-    animation: otate 9s linear infinite;
+    animation: rotate 9s linear infinite;
     transform: rotateY(45deg);
     transition: transform 500ms ease;
     background:#dec;
